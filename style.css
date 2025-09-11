@@ -1,0 +1,36 @@
+html {
+    font-size: 40px;
+    font-family: "barrio", sans-serif;
+}
+
+body {
+    background-color: #333;
+    color: whitesmoke;
+}
+#Lorem1 {
+    color: tomato;
+}
+#Lorem2 {
+    color: orange;
+}
+#Lorem3 {
+    color: yellow;
+}
+#Lorem4 {
+    color: greenyellow;
+}
+#YASOIOIOAHUIOHU {
+    color: rgb(23, 23, 160);
+} 
+
+
+.odd {
+    background-color:black
+}
+.even {
+    text-shadow: 0.05em 0 black, 0 0.05em black, -0.05em 0 black, 0 -0.05em black, -0.05em -0.05em black, -0.05em 0.05em black, 0.05em -0.05em black, 0.05em 0.05em black;
+    background-color:white
+}
+#button {
+    padding: 20px;
+}
